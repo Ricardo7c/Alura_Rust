@@ -1,1 +1,1 @@
-Código gerado durante as aulas de Rust da alura.
+Códigos gerados durante as aulas de Rust da alura.
