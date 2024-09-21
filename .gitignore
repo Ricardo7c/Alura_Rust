@@ -1,0 +1,23 @@
+# Ignore the folder target (build artifacts)
+target/
+
+# Ignore Cargo.lock for libraries, but include it for applications
+# Uncomment the line below if this is a library
+# Cargo.lock
+
+# Ignore backups and temporary files
+*.rs.bk
+*.swp
+*.swo
+
+# Ignore compiled binaries
+**/*.rmeta
+**/*.rlib
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+
+# Ignore other system-specific files
+.DS_Store
+Thumbs.db
