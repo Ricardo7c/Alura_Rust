@@ -1,0 +1,55 @@
+dependencies = { }
+
+[package]
+name = "Alura"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "01_variaveis"
+path = "01_variaveis.rs"
+
+[[bin]]
+name = "02_constantes"
+path = "02_constantes.rs"
+
+[[bin]]
+name = "03_escopos"
+path = "03_escopos.rs"
+
+[[bin]]
+name = "04_funcoes"
+path = "04_funcoes.rs"
+
+[[bin]]
+name = "05_ifElse"
+path = "05_ifElse.rs"
+
+[[bin]]
+name = "06_While"
+path = "06_While.rs"
+
+[[bin]]
+name = "07_for"
+path = "07_for.rs"
+
+[[bin]]
+name = "08_Match"
+path = "08_Match.rs"
+
+[[bin]]
+name = "09_Ownership"
+path = "09_Ownership.rs"
+
+[[bin]]
+name = "10_Borrowing"
+path = "10_Borrowing.rs"
+
+[[bin]]
+name = "11_PatterMatch"
+path = "11_PatterMatch.rs"
+
+[[bin]]
+name = "12_erros"
+path = "12_erros.rs"
+
