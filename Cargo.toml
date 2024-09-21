@@ -53,3 +53,7 @@ path = "11_PatterMatch.rs"
 name = "12_erros"
 path = "12_erros.rs"
 
+[[bin]]
+name = "13_arrays"
+path = "13_arrays.rs"
+
