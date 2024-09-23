@@ -57,3 +57,7 @@ path = "12_erros.rs"
 name = "13_arrays"
 path = "13_arrays.rs"
 
+[[bin]]
+name = "14_enums"
+path = "14_enums.rs"
+
