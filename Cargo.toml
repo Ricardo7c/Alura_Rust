@@ -73,3 +73,7 @@ path = "16_if_let.rs"
 name = "17_generics"
 path = "17_generics.rs"
 
+[[bin]]
+name = "17_vetores"
+path = "17_vetores.rs"
+
