@@ -61,3 +61,15 @@ path = "13_arrays.rs"
 name = "14_enums"
 path = "14_enums.rs"
 
+[[bin]]
+name = "15_Option"
+path = "15_Option.rs"
+
+[[bin]]
+name = "16_if_let"
+path = "16_if_let.rs"
+
+[[bin]]
+name = "17_generics"
+path = "17_generics.rs"
+
