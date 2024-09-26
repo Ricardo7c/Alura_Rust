@@ -77,3 +77,7 @@ path = "17_generics.rs"
 name = "17_vetores"
 path = "17_vetores.rs"
 
+[[bin]]
+name = "18_structs"
+path = "18_structs.rs"
+
